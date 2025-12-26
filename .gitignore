@@ -1,5 +1,6 @@
 app
 asm-prog
+main
 # Prerequisites
 *.d
 

@@ -18,5 +18,3 @@ main.o: main.asm
 
 clean:
 	rm -f $(TARGET) *.o
-
-.PHONY: all clean
